@@ -1,2 +1,2 @@
 # PicardSortSam
-GenePattern Picard SortSam module.
+GenePattern Picard.SortSAM module.
